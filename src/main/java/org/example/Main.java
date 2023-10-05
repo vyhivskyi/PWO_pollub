@@ -16,5 +16,8 @@ public class Main {
         System.out.println("Lab1" + "+1");
         System.out.println("Lab1" + "qwerty");
         System.out.println("Politechnika");
+        System.out.println("Lubelska");
+        System.out.println("7");
+        System.out.println("semestr");
     }
 }
