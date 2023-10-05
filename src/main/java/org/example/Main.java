@@ -15,6 +15,6 @@ public class Main {
         }
         System.out.println("Lab1" + "+1");
         System.out.println("Lab1" + "qwerty");
-
+        System.out.println("Politechnika");
     }
 }
